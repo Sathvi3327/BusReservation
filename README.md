@@ -1,9 +1,9 @@
 Hloo,
 Hope you all are well and safe in good health.😊😊
 
-This is Bus reservation program made using C++.
+This is Bus reservation🚌 program made using C++.
 
-In this program I have the code in such a way that you can have different options available to choose.
+In this program you have different options available to choose as,
 
 You can create
   1. List of any number of busses you want to have with their details such as
@@ -20,7 +20,7 @@ You can create
       - Passengers names along with their seat numbers.
   4. You can also check what are the different busses available and their details in this.
   
-So, there you go I have given you a short brief of what happens in this program.
-If you want to check out more and experience it, please give it a try.
+So, there you go I have given you a short brief of what happens in this program.☺️
+If you want to check out more and experience it, give it a try.
 
-Take care
+Take care, Bye 👋
