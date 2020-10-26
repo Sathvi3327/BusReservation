@@ -1,5 +1,6 @@
-Hloo,
-Hope you all are well and safe in good health.😊😊
+# Bus Reservation
+
+## Hloo,Hope you all are well and safe in good health.😊😊
 
 This is Bus reservation🚌 program made using C++.
 
@@ -21,4 +22,4 @@ In this program you can create
 So, there you go I have given you a short brief of what happens in this program.☺️
 If you want to check out more and experience it, give it a try.
 
-Take care, Bye 👋
+## Take care, Bye 👋
