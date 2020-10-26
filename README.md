@@ -3,9 +3,7 @@ Hope you all are well and safe in good health.😊😊
 
 This is Bus reservation🚌 program made using C++.
 
-In this program you have different options available to choose as,
-
-You can create
+In this program you can create
   1. List of any number of busses you want to have with their details such as
       - Bus number
       - Driver name
